@@ -16,7 +16,7 @@ const projects = [
     description: "Creates a complex rythm metronome",
     technologiesUsed: "HTML, CSS, Javascript, Github for version control",
     available: true,
-    url : "https://github.com/Greenfin17/samplesite",
+    url : "https://jm-product-cards.netlify.app",
     githubUrl : "https://github.com/Greenfin17/product-cards",
   },
   {
