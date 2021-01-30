@@ -3,3 +3,41 @@ body {
   margin: 20px 0;
   background-color: #aaeeaa;
 }
+
+.projects-nav {
+  margin: 2em;
+  display: flex;
+  align-items: center;
+}
+
+
+#nav-container {
+  padding-top: 10px;
+}
+
+#navLinks {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style-type: none;
+  font-size: 1.3em;
+}
+
+#navLinks li {
+  margin: 5px 1em;
+}
+
+
+.project-title {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.img-container {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+
