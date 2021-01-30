@@ -3,3 +3,38 @@ body {
   margin: 20px 0;
   background-color: #aaeeaa;
 }
+
+#nav-container{
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+  margin: 1em 0;
+  display: inline-block;
+}
+
+.img-container {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+#navLinks {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+  font-size: 1.3em;
+}
+
+#navLinks li {
+  margin: 5px 1em;
+}
+
+
+.project-title {
+  text-align: center;
+  font-size: 1.2em;
+}
+
