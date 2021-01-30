@@ -11,7 +11,7 @@ const projects = [
     githubUrl : "https://github.com/Greenfin17/pet-adoption",
   },
   {
-    title: "Cool Project2",
+    title: "Ski Shop",
     screenshot: "screenshots/SkiShop.png",
     description: "Creates a complex rythm metronome",
     technologiesUsed: "HTML, CSS, Javascript, Github for version control",
