@@ -7,11 +7,9 @@ body {
 #nav-container{
   display: flex;
 }
-
 h1 {
   text-align: center;
   margin: 1em 0;
-  display: inline-block;
 }
 
 .img-container {
