@@ -47,7 +47,7 @@ const createProjectCards = (projectArr) => {
           <p class="card-text project-title">${item.title}</p>
           <div class="img-container" style="background-image: url('${item.screenshot}');"></div>
           <p class="card-text technologies">Technologies: ${item.technologiesUsed}</p>
-          <p class="card-text url">Link: ${item.url}</p>
+          <p class="card-text url"><a href="${item.url}">Site Link</a></p>
           <p class="card-text githubUrl"><a href="${item.githubUrl}">GitHub</a></p>
         </div>
       </div>`; 
