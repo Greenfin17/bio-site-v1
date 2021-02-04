@@ -15,6 +15,7 @@ h1 {
 
 h2 {
   text-align: center;
+  margin: 2em 0 2em;
 }
 
 
@@ -30,6 +31,16 @@ h2 {
 
 .fullPage {
   margin: 2em 2em;
+}
+
+#technologiesPage {
+}
+
+ul.technologies {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  list-style: none;
 }
 
 .page-footer {
