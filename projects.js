@@ -7,7 +7,7 @@ const projects = [
     description: "Creates a complex rythm metronome",
     technologiesUsed: "HTML, CSS, Javascript, Github for version control",
     available: true,
-    url : "https://github.com/Greenfin17/samplesite",
+    url: "https://jm-pet-adoption.netlify.app/",
     githubUrl : "https://github.com/Greenfin17/pet-adoption",
   },
   {
