@@ -7,7 +7,7 @@
 - https://jm-personal-bio-site.netlify.app/
 
 ## Project Board
-- 
+- https://github.com/Greenfin17/bio-site/projects/1
 
 ## User
 - The user is someone interested in learning about me.
