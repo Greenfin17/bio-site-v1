@@ -12,14 +12,10 @@
 ## User
 - The user is someone interested in learning about me.
 
-
 ## Features
 - Displays screenshots and links to my projects.
 
 ## Screenshot
-  ![image](https://user-images.githubusercontent.com/51683901/106988018-4ba50b80-6734-11eb-8352-89f3799e2b5e.png)
-
-
-## Loom Video
+ ![BioSite](https://user-images.githubusercontent.com/51683901/107110276-41eed700-680c-11eb-8469-735f69de8b0d.png)
   
   
