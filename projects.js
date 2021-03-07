@@ -3,6 +3,36 @@ console.log("CONNECTED");
 
 const projects = [
   {
+    title: "Almost Amazon",
+    screenshot: "screenshots/AlmostAmazon.png",
+    altText: "Screen shot of Almost Amazon project",
+    description: "App that allows a user to track books and authors",
+    technologiesUsed: "HTML, CSS, Javascript, Github for version control",
+    available: true,
+    url: "https://unruffled-morse-7d9b48.netlify.app/",
+    githubUrl: "https://github.com/Greenfin17/IN-CLASS-almost-amazon-template"
+  },
+  {
+    title: "Tamagotchi",
+    screenshot: "screenshots/Tamagotchi.png",
+    altText: "Screen shot of Tamagotchi project",
+    description: "Game that mimics the Tamagotchi toy of the 90's",
+    technologiesUsed: "HTML, CSS, Javascript, Github for version control",
+    available: true,
+    url : "https://jm-e-pet-tamagotchi.netlify.app/",
+    githubUrl: "https://github.com/Greenfin17/ASSIGNMENT-Tamagotchi"
+  },
+  {
+    title: "Bear Watcher",
+    screenshot: "screenshots/BearWatcher.png",
+    altText: "Screen shot of Bear Watcher project",
+    description: "Tool for tracking the fishing activiteis of bears in real time.",
+    technologiesUsed: "HTML, CSS, Javascript, Github for version control",
+    available: true,
+    url : "https://jm-bear-watcher.netlify.app",
+    githubUrl: "https://github.com/Greenfin17/ASSIGNMENT-Bear-Watcher"
+  },
+  {
     title: "Sorting Hat",
     screenshot: "screenshots/SortingHat.png",
     altText: "Screen shot of Sorting Hat project",
@@ -16,7 +46,7 @@ const projects = [
     title: "Pet Adoption",
     screenshot: "screenshots/PetAdoption.png",
     altText: "Screen shot of Pet Adoption project",
-    description: "Creates a complex rythm metronome",
+    description: "Mimics a pet adoption site.",
     technologiesUsed: "HTML, CSS, Javascript, Github for version control",
     available: true,
     url: "https://jm-pet-adoption.netlify.app/",
@@ -26,12 +56,14 @@ const projects = [
     title: "Ski Shop",
     screenshot: "screenshots/SkiShop.png",
     altText: "Screen shot of Ski Shop product cards",
-    description: "Creates a complex rythm metronome",
+    description: "Product display of imaginary ski shop",
     technologiesUsed: "HTML, CSS, Javascript, Github for version control",
     available: true,
     url : "https://jm-product-cards.netlify.app",
     githubUrl : "https://github.com/Greenfin17/product-cards",
   },
+
+
 ]  
 
 
