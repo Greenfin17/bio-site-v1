@@ -4,6 +4,8 @@
 - This is my personal bio-site.
   
 ## Site link
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53ed696c-a66b-427d-8684-9c5c187d167f/deploy-status)](https://app.netlify.com/sites/jm-personal-bio-site/deploys)
+
 - https://jm-personal-bio-site.netlify.app/
 
 ## Project Board
